@@ -1,2 +1,5 @@
 # hello-world
-First program(Learn Git)
+
+Hi everyone!
+
+I`m learning Git. Good luck to me ;)
